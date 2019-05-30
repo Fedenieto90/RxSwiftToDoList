@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftToDoListUITests {
+  umbrella header "Pods-RxSwiftToDoListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
